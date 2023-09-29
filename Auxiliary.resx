@@ -367,4 +367,10 @@
   <metadata name="SideBar3.PredefinedColorScheme" type="DevComponents.DotNetBar.eSideBarColorScheme, DevComponents.DotNetBar2, Version=14.1.0.37, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04">
     <value>Blue</value>
   </metadata>
+  <metadata name="SideBar2.PredefinedColorScheme" type="DevComponents.DotNetBar.eSideBarColorScheme, DevComponents.DotNetBar2, Version=14.1.0.37, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04">
+    <value>Blue</value>
+  </metadata>
+  <metadata name="SideBar1.PredefinedColorScheme" type="DevComponents.DotNetBar.eSideBarColorScheme, DevComponents.DotNetBar2, Version=14.1.0.37, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04">
+    <value>Blue</value>
+  </metadata>
 </root>

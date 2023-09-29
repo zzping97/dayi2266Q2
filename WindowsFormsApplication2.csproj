@@ -292,6 +292,9 @@
     <Reference Include="PylonC.NET">
       <HintPath>bin\x64\Debug\PylonC.NET.dll</HintPath>
     </Reference>
+    <Reference Include="SunnyUI">
+      <HintPath>..\..\Q1 - 0913\WindowsFormsApplication1\bin\Debug\SunnyUI.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -345,6 +348,8 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="XMLHELP.cs" />
+    <Compile Include="深度学习工具集.cs" />
     <EmbeddedResource Include="Authority.resx">
       <DependentUpon>Authority.cs</DependentUpon>
     </EmbeddedResource>
