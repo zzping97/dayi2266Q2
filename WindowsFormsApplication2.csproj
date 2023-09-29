@@ -88,123 +88,133 @@
     <Reference Include="Cognex.VisionPro, Version=59.2.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\晋达继电器Q3检测2022.11.21 - VS2019\WindowsApplication2\bin\x64\Debug\Cognex.VisionPro.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="Cognex.VisionPro.Blob, Version=59.2.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\晋达继电器Q3检测2022.11.21 - VS2019\WindowsApplication2\bin\x64\Debug\Cognex.VisionPro.Blob.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="Cognex.VisionPro.CalibFix, Version=59.2.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\晋达继电器Q3检测2022.11.21 - VS2019\WindowsApplication2\bin\x64\Debug\Cognex.VisionPro.CalibFix.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="Cognex.VisionPro.CalibFix.Controls, Version=59.2.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\晋达继电器Q3检测2022.11.21 - VS2019\WindowsApplication2\bin\x64\Debug\Cognex.VisionPro.CalibFix.Controls.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="Cognex.VisionPro.CalibFixPlus, Version=59.2.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\晋达继电器Q3检测2022.11.21 - VS2019\WindowsApplication2\bin\x64\Debug\Cognex.VisionPro.CalibFixPlus.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="Cognex.VisionPro.Caliper, Version=59.2.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\晋达继电器Q3检测2022.11.21 - VS2019\WindowsApplication2\bin\x64\Debug\Cognex.VisionPro.Caliper.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="Cognex.VisionPro.Caliper.Controls, Version=59.2.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\晋达继电器Q3检测2022.11.21 - VS2019\WindowsApplication2\bin\x64\Debug\Cognex.VisionPro.Caliper.Controls.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="Cognex.VisionPro.Controls, Version=59.2.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\晋达继电器Q3检测2022.11.21 - VS2019\WindowsApplication2\bin\x64\Debug\Cognex.VisionPro.Controls.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="Cognex.VisionPro.Core, Version=59.2.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\晋达继电器Q3检测2022.11.21 - VS2019\WindowsApplication2\bin\x64\Debug\Cognex.VisionPro.Core.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="Cognex.VisionPro.CorePlus, Version=59.2.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\晋达继电器Q3检测2022.11.21 - VS2019\WindowsApplication2\bin\x64\Debug\Cognex.VisionPro.CorePlus.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="Cognex.VisionPro.Database, Version=59.2.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\晋达继电器Q3检测2022.11.21 - VS2019\WindowsApplication2\bin\x64\Debug\Cognex.VisionPro.Database.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="Cognex.VisionPro.Dimensioning, Version=59.2.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\晋达继电器Q3检测2022.11.21 - VS2019\WindowsApplication2\bin\x64\Debug\Cognex.VisionPro.Dimensioning.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="Cognex.VisionPro.Dimensioning.Controls, Version=59.2.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\晋达继电器Q3检测2022.11.21 - VS2019\WindowsApplication2\bin\x64\Debug\Cognex.VisionPro.Dimensioning.Controls.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="Cognex.VisionPro.Display.Controls, Version=59.2.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\晋达继电器Q3检测2022.11.21 - VS2019\WindowsApplication2\bin\x64\Debug\Cognex.VisionPro.Display.Controls.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="Cognex.VisionPro.FGGigE, Version=59.2.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\晋达继电器Q3检测2022.11.21 - VS2019\WindowsApplication2\bin\x64\Debug\Cognex.VisionPro.FGGigE.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="Cognex.VisionPro.ImageFile, Version=59.2.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\晋达继电器Q3检测2022.11.21 - VS2019\WindowsApplication2\bin\x64\Debug\Cognex.VisionPro.ImageFile.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="Cognex.VisionPro.ImageProcessing, Version=59.2.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\晋达继电器Q3检测2022.11.21 - VS2019\WindowsApplication2\bin\x64\Debug\Cognex.VisionPro.ImageProcessing.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="Cognex.VisionPro.Inspection, Version=59.2.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\晋达继电器Q3检测2022.11.21 - VS2019\WindowsApplication2\bin\x64\Debug\Cognex.VisionPro.Inspection.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="Cognex.VisionPro.Inspection.Controls, Version=59.2.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\晋达继电器Q3检测2022.11.21 - VS2019\WindowsApplication2\bin\x64\Debug\Cognex.VisionPro.Inspection.Controls.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="Cognex.VisionPro.Interop.Core, Version=59.2.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <EmbedInteropTypes>True</EmbedInteropTypes>
       <HintPath>..\..\..\晋达继电器Q3检测2022.11.21 - VS2019\WindowsApplication2\bin\x64\Debug\Cognex.VisionPro.Interop.Core.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="Cognex.VisionPro.LinescanDistortionCorrection, Version=59.2.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\晋达继电器Q3检测2022.11.21 - VS2019\WindowsApplication2\bin\x64\Debug\Cognex.VisionPro.LinescanDistortionCorrection.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="Cognex.VisionPro.LinescanDistortionCorrection.Controls, Version=59.2.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\晋达继电器Q3检测2022.11.21 - VS2019\WindowsApplication2\bin\x64\Debug\Cognex.VisionPro.LinescanDistortionCorrection.Controls.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="Cognex.VisionPro.MultiLineFinder, Version=59.2.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\晋达继电器Q3检测2022.11.21 - VS2019\WindowsApplication2\bin\x64\Debug\Cognex.VisionPro.MultiLineFinder.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="Cognex.VisionPro.MultiLineFinder.Controls, Version=59.2.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\晋达继电器Q3检测2022.11.21 - VS2019\WindowsApplication2\bin\x64\Debug\Cognex.VisionPro.MultiLineFinder.Controls.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="Cognex.VisionPro.ToolGroup, Version=59.2.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\晋达继电器Q3检测2022.11.21 - VS2019\WindowsApplication2\bin\x64\Debug\Cognex.VisionPro.ToolGroup.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="Cognex.VisionPro.ToolGroup.Controls, Version=59.2.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\晋达继电器Q3检测2022.11.21 - VS2019\WindowsApplication2\bin\x64\Debug\Cognex.VisionPro.ToolGroup.Controls.dll</HintPath>
-    </Reference>
-    <Reference Include="Cognex.VisionPro3D, Version=59.2.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\晋达继电器Q3检测2022.11.21 - VS2019\WindowsApplication2\bin\x64\Debug\Cognex.VisionPro3D.dll</HintPath>
-    </Reference>
-    <Reference Include="Cognex.VisionPro3D.Core, Version=59.2.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\晋达继电器Q3检测2022.11.21 - VS2019\WindowsApplication2\bin\x64\Debug\Cognex.VisionPro3D.Core.dll</HintPath>
-    </Reference>
-    <Reference Include="Cognex.VisionPro3D.Display.Controls, Version=59.2.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\晋达继电器Q3检测2022.11.21 - VS2019\WindowsApplication2\bin\x64\Debug\Cognex.VisionPro3D.Display.Controls.dll</HintPath>
-    </Reference>
-    <Reference Include="Cognex.VisionPro3D.Graphic, Version=59.2.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\晋达继电器Q3检测2022.11.21 - VS2019\WindowsApplication2\bin\x64\Debug\Cognex.VisionPro3D.Graphic.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="CognexD">
       <HintPath>bin\x64\Debug\CognexD.dll</HintPath>
@@ -215,54 +225,67 @@
     <Reference Include="DevComponents.Charts.Design, Version=14.1.0.37, Culture=neutral, PublicKeyToken=90f470f34c89ccaf, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\Q1\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\DevComponents.Charts.Design.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="DevComponents.DotNetBar.Charts, Version=14.1.0.37, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\Q1\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\DevComponents.DotNetBar.Charts.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="DevComponents.DotNetBar.Design, Version=11.8.0.8, Culture=neutral, PublicKeyToken=2c9ff1fddc42653c, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\Q1\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\DevComponents.DotNetBar.Design.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="DevComponents.DotNetBar.Keyboard, Version=11.8.0.8, Culture=neutral, PublicKeyToken=c39c3242a43eee2b, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\Q1\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\DevComponents.DotNetBar.Keyboard.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="DevComponents.DotNetBar.Layout, Version=11.8.0.8, Culture=neutral, PublicKeyToken=c39c3242a43eee2b, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\Q1\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\DevComponents.DotNetBar.Layout.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="DevComponents.DotNetBar.Layout.Design, Version=11.8.0.8, Culture=neutral, PublicKeyToken=c39c3242a43eee2b, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\Q1\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\DevComponents.DotNetBar.Layout.Design.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="DevComponents.DotNetBar.Schedule, Version=11.8.0.8, Culture=neutral, PublicKeyToken=c39c3242a43eee2b, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\Q1\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\DevComponents.DotNetBar.Schedule.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="DevComponents.DotNetBar.SuperGrid, Version=11.8.0.8, Culture=neutral, PublicKeyToken=c39c3242a43eee2b, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\Q1\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\DevComponents.DotNetBar.SuperGrid.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="DevComponents.DotNetBar2, Version=11.8.0.8, Culture=neutral, PublicKeyToken=c39c3242a43eee2b, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\Q1\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\DevComponents.DotNetBar2.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="DevComponents.Instrumentation, Version=11.8.0.8, Culture=neutral, PublicKeyToken=bc4a9d761ea44ef0, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\Q1\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\DevComponents.Instrumentation.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="DevComponents.Instrumentation.Design, Version=11.8.0.8, Culture=neutral, PublicKeyToken=30cefae8f341f577, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\Q1\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\DevComponents.Instrumentation.Design.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="DevComponents.SuperGrid.Design, Version=11.8.0.8, Culture=neutral, PublicKeyToken=1fea3f5d8d482bff, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\Q1\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\DevComponents.SuperGrid.Design.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="DevComponents.TreeGX, Version=11.8.0.8, Culture=neutral, PublicKeyToken=cfcbd7476b2389d1, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\Q1\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\DevComponents.TreeGX.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="HslCommunication">
       <HintPath>bin\x64\Debug\HslCommunication.dll</HintPath>
@@ -349,7 +372,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="XMLHELP.cs" />
-    <Compile Include="深度学习工具集.cs" />
+    <Compile Include="DeepCls.cs" />
     <EmbeddedResource Include="Authority.resx">
       <DependentUpon>Authority.cs</DependentUpon>
     </EmbeddedResource>
